@@ -1,0 +1,7 @@
+#Mon Jan 16 10:29:13 BDT 2017
+base.0=E\:\\yeasinandroid\\Android-Image-Upload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_50685f60c98e38390c4aa74149ec32dee3cbe082
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=E\:\\yeasinandroid\\Android-Image-Upload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a80d4e1804a58214e42666f972270e37e5a97fa2\\classes.dex
+base.1=E\:\\yeasinandroid\\Android-Image-Upload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_a80d4e1804a58214e42666f972270e37e5a97fa2
+file.0=E\:\\yeasinandroid\\Android-Image-Upload\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_50685f60c98e38390c4aa74149ec32dee3cbe082\\classes.dex
